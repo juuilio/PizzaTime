@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PizzaTimeApplication<PizzaTime>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "senac.PizzaTime.PizzaTimeApplication",
+            "projectName": "PizzaTime",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
